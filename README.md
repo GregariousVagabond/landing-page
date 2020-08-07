@@ -1,5 +1,2 @@
-# Landing Page
-A landing page built using CSS and HTML. Allows email input to sign up for newsletter subscriptions. A video provides product insight for the user. The page also depicts three purchase options, each with brief descriptions above interactive submit buttons.
-
-Page and code can be easily accessed using the following CodePen link:
-https://codepen.io/FishTacos/pen/gqyKxG
+# Technical Documentation 
+A responsive web technical documentation page built using CSS and HTML. The navigation bar to the left is constantly visible in a fixed position. The navigation bar also contains a list of clickable technical documentation headers that navigate the page to the applicable section of the web page.
